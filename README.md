@@ -1,7 +1,7 @@
 
 
 # kafka-node-app
-This is kafka tutorial for beginer
+This is kafka tutorial for beginner
 ## Prerequisite
 - Knowledge
   - Node.JS Intermediate level
