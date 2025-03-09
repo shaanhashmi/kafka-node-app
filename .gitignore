@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist
+/build
+
+# npm package lock file (optional, can be versioned in some cases)
+package-lock.json
+yarn.lock
+
+# TypeScript specific
+*.tsbuildinfo
+
+# IDE/Editor files
+.vscode/
+.idea/
